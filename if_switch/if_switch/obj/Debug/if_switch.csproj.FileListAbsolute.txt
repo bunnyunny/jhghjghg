@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\if_switch\if_switch\bin\Debug\if_switch.exe.config
+H:\Visual Studio 2022\Projects\if_switch\if_switch\bin\Debug\if_switch.exe
+H:\Visual Studio 2022\Projects\if_switch\if_switch\bin\Debug\if_switch.pdb
+H:\Visual Studio 2022\Projects\if_switch\if_switch\obj\Debug\if_switch.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\if_switch\if_switch\obj\Debug\if_switch.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\if_switch\if_switch\obj\Debug\if_switch.Form1.resources
+H:\Visual Studio 2022\Projects\if_switch\if_switch\obj\Debug\if_switch.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\if_switch\if_switch\obj\Debug\if_switch.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\if_switch\if_switch\obj\Debug\if_switch.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\if_switch\if_switch\obj\Debug\if_switch.exe
+H:\Visual Studio 2022\Projects\if_switch\if_switch\obj\Debug\if_switch.pdb
